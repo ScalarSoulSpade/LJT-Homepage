@@ -24,7 +24,7 @@ redirect_from:
   - Advisor: Zifei Shan.
 - **Research Intern**, Shanghai AI Lab, June 2023–December 2023.
   - Advisor: Prof. Yu Cheng.
-- **Ph.D. Researcher**, HKUST NLP Group, 2024–Present.
+- **Ph.D. Candidate**, HKUST NLP Group, 2024–Present.
   - Supervisor: Professor Junxian He.
 
 ## Honors and Awards
