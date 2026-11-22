@@ -28,7 +28,7 @@ First-year Ph.D. candidate at the HKUST NLP Group. Graduated from Shanghai Jiao 
 
 ## Research Experience
 
-- **Ph.D. Researcher**, HKUST NLP Group, 2024–Present.
+- **Ph.D. Candidate**, HKUST NLP Group, 2024–Present.
   - Supervisor: Professor Junxian He.
 - **Research Intern**, MINIMAX, February 2025–Present.
 - **Research Intern**, Tencent WXG, June 2024–September 2024.
